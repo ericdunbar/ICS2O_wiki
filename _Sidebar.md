@@ -3,6 +3,7 @@
 * [Course Outline](./Course-Overview)
 * [Overarching Learning Goals](./images/ICS2O.jpg)
 * [Due Dates and Submission Details](./Due-Dates-and-Submission-Details)
+* [Mr. Kowalczewski's Intro Survey - requires school Gmail account](https://forms.gle/z1vkw4zBuhycKaFKA)
 
 ## Assignments
 #### Computer Systems:
