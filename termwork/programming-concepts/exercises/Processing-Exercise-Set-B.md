@@ -7,25 +7,24 @@ It is highly suggested that you complete these 3 exercises **prior** to attempti
 ## Exercise 6
 _Estimated time to complete: 2-3 classes_
 
-1. Recreate the image below.  Each set of shapes is created with ```while``` loops.  For example, there is only one ```triangle``` line of code, but the while loop draws multiple triangles.
+1. Recreate the image below.  Each set of shapes is created with ```for``` loops.  For example, there is only one ```triangle``` line of code, but the ```for``` loop draws multiple triangles.
 
 ![Ex6](http://mrseidel.com/images/Processing/2O/Exercise6_2O.png)
-
-## Bonus Exercise
-_Estimated time to complete: 2-4 classes_
-
-1. Work on this if you complete Exercise 6 early.
-2. Recreate the image below.  You will need to make use of the ```%``` operator, and ```while``` loops.
-
-![Ex6](http://mrseidel.com/images/Processing/2O/Exercise6_2O.gif)
-
 
 ## Exercise 7
 _Estimated time to complete: 1-3 classes_
 
-1. Recreate the image below. Use ```for``` loops to complete this task.  You can technically complete this task using ```while``` loops, but it is expected that you practice using ```for``` loops.
+1. Recreate the image below. Use ```while``` loops to complete this task.  You can technically complete this task using ```for``` loops, but it is expected that you practice using ```while``` loops.
 
 ![here](http://mrseidel.com/images/Processing/2O/Exercise7_2O.png)
+
+## Bonus Exercise
+_Estimated time to complete: 2-4 classes_
+
+1. Work on this if you complete Exercise 6 + 7 early.
+2. Recreate the image below.  You will need to make use of the ```%``` operator, and ```while``` loops.
+
+![Ex6](http://mrseidel.com/images/Processing/2O/Exercise6_2O.gif)
 
 ## Learning Goals and Success Criteria
 
