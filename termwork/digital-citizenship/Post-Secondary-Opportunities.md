@@ -1,6 +1,6 @@
 ## Task(s)
 
-1. Choose a single career related to Computer Science.  In 50 words or less, describe why this is the best possible career over any other.
+1. Choose a single career that requires computer skills (more than word processing or spreadsheets).  In 50 words or less, describe why this is the best possible career over any other.
 2. Choose a single college or university program *outside of Ontario* related to the career above. In 50 words or less, describe its merits.
 3. Identify the [Essential Skills](http://www.skills.edu.gov.on.ca/OSP2Web/TCU/DisplayEssentialSkills.xhtml) required for the career you chose in #1 above.
 
