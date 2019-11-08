@@ -2,7 +2,7 @@
 
 1. Choose a single career that requires computer skills (more than word processing or spreadsheets).  In 50 words or less, describe why this is the best possible career for you.
 2. Choose a single college or university program *outside of Ontario* related to the career above. In 50 words or less, describe its merits.
-3. Identify the [Essential Skills](http://www.skills.edu.gov.on.ca/OSP2Web/TCU/DisplayEssentialSkills.xhtml) required for the career you chose in #1 above.
+3. Identify the [Essential Skills](http://www.skills.edu.gov.on.ca/OSP2Web/TCU/DisplayEssentialSkills.xhtml) required for the career you chose in #1 above.  In 100 words or less, describe why they are required.
 
 ## Task Criteria 
 To complete the tasks above, you have to be able to summarize your opinion.  Be concise and accurate with your information.
