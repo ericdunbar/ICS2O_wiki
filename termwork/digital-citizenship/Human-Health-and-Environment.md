@@ -3,7 +3,7 @@
 Complete **both** of the following:
 
 1. Create a visual poster or diorama that uses **no** words, that describes negative effects of computers on human health.
-2. Create a visual poster or diorama that uses **no** words, that shows a local company/institution that offers e-waste recycling services, and how they complete such services.
+2. Create a visual poster or diorama that uses **no** words, that shows a local company/institution that offers e-waste recycling services, and how they complete such services.  Also show some of the items that can be recycled.
 
 Free online infographic tools are available [here](https://www.canva.com/create/infographics/), [here](https://piktochart.com/), and [here](https://venngage.com/).  There are more available if you don't like the ones above (a Google search will find you some more).
 
