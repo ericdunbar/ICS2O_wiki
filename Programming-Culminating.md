@@ -22,23 +22,12 @@ Please see the [due dates](./Due-Dates-and-Submission-Details) page for more det
 
 ## Goals and Success Criteria
 
-The specific goal(s) for this [_Programming Concepts_](./images/ICS2O.jpg) culminating task include:  
+The specific goal(s) for this [_Programming Concepts_](./images/ICS2O.jpg) culminating task include:    
 
 | Success Criteria                         | Level | Comments |
 | ---------------------------------------- | ----- | -------- |
-| I can use correct terminology to describe programming concepts | | | |
-| I can describe the function of Boolean, comparison, and arithmetic operators | | | |
-| I can identify situations in which decision structures are required | | | |
-| I can identify situations in which looping structures are required | | | |
-| I can use variables, expressions, and assignment statements to store and manipulate numbers and text in a program | | | |
-| I can write a program that includes input and output | | | |
-| I can write a program that includes a decision structure for two or more choices | | | |
-| I can write clear and maintainable code using proper programming standards | | | |
-| I can write clear and maintainable internal documentation to a specific set of standards | | | |
-| I can write a program that includes looping structures.  | | | |
-| I can demonstrate the ability to validate and test a computer program using specific cases, including corner cases | | | |
-
-
-
-
-
+| **Documentation**: Demonstrate the use of a header and comments in a program |       |          |
+| **Input and Output**: Demonstrate the use of input and output in a program  |       |          |
+| **Variables**: Demonstrate the use of built in and custom variables in a program |       |
+| **IF Statements**: Demonstrate the use of IF statements in a program |       |                
+| **Loops**: Demonstrate the use of loops in a program |       |          |
