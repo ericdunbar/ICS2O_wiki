@@ -1,6 +1,6 @@
 ## Task(s)
 
-1. Individually or in pairs, you will be putting together a proposal package for a potential client as below.  There will be a roughly equal number of individuals/groups for each Client.
+1. Individually or in pairs, you will be putting together a two-part proposal package for a potential client as below.  There will be a roughly equal number of individuals/groups for each Client.
 
 _Your teacher might set up this differently - see your teacher for more details_
 
@@ -42,54 +42,34 @@ _Your teacher might set up this differently - see your teacher for more details_
 > I'd prefer not to spend too much on all of this, but I'm willing to go higher if you can convince me that it's worth it.
 
 
-## Task Criteria (Package)
+## Part 1 - Hardware
 
-### Section 1 (Title Page)  
-A title page (1 page) including:
-* Your name,
-* the course code,
-* a title for your work,
-* which client you were assigned,
+### Computer Build
 
-### Section 2 (Table of Contents)  
-A table of contents (1-2 pages), complete this at the end after you have completed every other section.
+* Choose individual components to build a computer for your client.  Include part type, product name, where you plan to buy the item and price.  [PCPartPicker](https://pcpartpicker.com/) is an excellent resource.
 
-### Section 3 (Abstract)  
-An abstract about the paperwork in the next few pages.  This is usually a summary of what is included in the entire package, including a basic conclusion on decisions made - **do this last**.
+* Provide short reasoning for choosing each component, using specific terminology.  You will also have to know the purpose of each component (ask your teacher how to demonstrate this).
 
-### Section 4 (Proposed System)  
-This section will be the largest of all sections, and will include:
-* A paragraph describing the client's needs in your own words followed by,
-* A table (or tables) that shows the computer hardware (individual components) and specialty item choices. Include part type, product name, where you plan to buy the item and price (1-3 pages).  [PCPartPicker](https://ca.pcpartpicker.com/) is an excellent resource.
-* Include hyperlinks for your prices.  If you are unsure of how to add a hyperlink, a short lesson will be available for you.
+### Network
 
-### Section 5 (Networking)
-This is a written section that includes:
-* A paragraph describing the client's needs in your own words followed by,
-* A table of required hardware and networking applications (such as for file sharing or communication), similar to Section 4.
+* Choose a type of network (wireless vs wired) for your client, as well as any components they would need.  Include part type, product name, where you plan to buy the item and price.
 
-### Section 6 (Software and Operating Systems)
-This is a written and visual section as follows:
-* Describe which Operating System and applications (non-networking) the client could possibly need.  Include current pricing (hyperlink the price to your source).
-* Describe briefly what preventative maintenance (steps they should take to ensure the smooth operation of their computer) the client should use.
-* Describe a folder structure that you could suggest to the client.  Feel free to include a visual of this if you find it easier.
+* Also choose any networking applications (file sharing/chat) that the client should use.
 
-### Section 7 (Reasoning)  
-This section will include reasoning behind your choices in _Section 4_, _Section 5_, and _Section 6_.
+* Provide short reasoning for all of your choices.
 
-### Section 8 (Reflection)
-This section will be a written reflection answering the following questions:
-* What was the most difficult part of completing this project?
-* What did you learn from completing this project?
-* Would you have preferred to complete this project for another _Client_? Why or why not?
+## Part 2 - Software / Operating System
 
-### Section 9 (Sources)
-* Cite any of your sources here using either APA, MLA, or Chicago Style formatting.
+* Choose software (non-networking) and an Operating System that is appropriate for your client.  Include current pricing (hyperlink).  
 
-### Important notes
-* All pages should have a page number at the bottom, excluding the first page.
-* For _Section 4_ you have to purchase individual parts, and **not** all-in-one solutions.
-* **DO NOT PRINT THIS WORK** - See the submission information below for more details.
+* Provide short reasoning for each choice, including some potential downsides.
+
+* Explain why preventative maintenance is important, and describe techniques that are available in your OS of choice.
+
+
+
+
+
 
 ## Due Dates and Submission Details
 
@@ -104,9 +84,18 @@ The specific Learning Goal(s) for this include:
   * We are learning to describe hardware [and software] components and assess users’ needs thereof.
   * We are learning to use software products and operating system software.
 
+### Part 1 - Hardware
+
+| Success Criteria | Met | Not Met | Learning and Improvement Comments |
+| ----------- | --- | ------ | ------- |
+| I can use correct terminology to describe computer hardware, speed measurements, and size measurements | | | |
+| I can describe the functions of the internal, network, and/or peripheral components of a computer | | | |
+| I can assess user computing needs and select appropriate hardware and networking components for different situations | | | |
+
+### Part 2 - Software / Operating System
+
 | Success Criteria | Met | Not Met | Learning and Improvement Comments |
 | ----------- | --- | ------ | ------- |
 | I can assess user computing needs and select appropriate software for different situations  | | | |
 | I can describe the features and limitations of various operating systems functions that meet diverse user needs | | | |
-| I can assess user computing needs and select appropriate hardware and networking components for different situations | | | |
 | I can explain the importance of system maintenance to manage the performance and increase the security of a computer. | | | |
