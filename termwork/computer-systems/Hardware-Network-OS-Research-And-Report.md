@@ -2,7 +2,7 @@
 
 1. Individually, you will be researching one of 28 topics below.  You will become the _expert_ on the topic you've been given.  You will produce a resource (web page, document etc) that other students can learn from.  They will be relying on your expertise to complete the [next assignment](Hardware-Network-OS-Applying-Your-Knowledge).  
 
-See your teacher for topic selection process.
+See your teacher for topic selection process, and whether this assignment will be assessed.
 
 | Hardware |
 |---|
@@ -26,8 +26,8 @@ See your teacher for topic selection process.
 | 4. Chrome OS |
 | 5. Linux (choose either: Ubuntu, Archlinux, Debian, or Fedora) |
 | 6. Linux (choose either: TinyCore, Puppy Linux, or any other distro that is tiny) |
-| 7. BSD (choose either: FreeBSD, NetBSD, or OpenBSD) |
-| 8. Mobile (choose either: iOS, Android, Blackberry OS, or Windows Phone OS) |
+| 7. TV (choose either: Android TV, webOS, Tizen, Roku TV and SmartCast) |
+| 8. Mobile (choose either: iOS, Android, Blackberry OS) |
 | 9. Application Software vs. Programming vs System Software (i.e. word processor, spreadsheet, integrated development environment (IDE), registry editor, defragmentation tools, partitions) |
 | 10. File management techniques to organize, and manage files (copy, move, delete, folder structures, renaming files, creating shortcuts, etc.) |
 | 11. Maintenance and Security (defragging, disk cleanup, malware) |
@@ -68,12 +68,12 @@ O1
 * Describe how an operating system works
 * Describe and display how an operating system connects to hardware
 
-O2, O3, O4, O5, O6, O7  
+O2, O3, O4, O5, O6  
 * Describe your operating system
 * Who is your operating system built for?
 * Why would someone choose your operating system?
 
-O8  
+O7, O8  
 * Describe the operating system
 * Compare your operating system with the other ones that are in your section
 * Give an **unbiased** review of the pros and cons of each of the operating systems
@@ -120,11 +120,3 @@ Please see the [due dates](./Due-Dates-and-Submission-Details) page for more det
 
 This is the research and report/share portion of the assignment connecting to the [next assignment](./Hardware-Network-OS-Applying-Your-Knowledge)
 
-The [Overarching Learning Goal](./images/ICS2O.jpg) for this is _Computer Systems_.
-The specific Learning Goal(s) for this include:
-  * We are learning to describe hardware [and software] components and assess users’ needs thereof.
-
-| Success Criteria | Met | Not Met | Learning and Improvement Comments |
-| ----------- | --- | ------ | ------- |
-| I can use correct terminology to describe computer hardware, speed measurements, and size measurements | | | |
-| I can describe the functions of the internal, network, and/or peripheral components of a computer | | | |
